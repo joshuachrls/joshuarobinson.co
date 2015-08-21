@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="70px" height="33px" viewBox="0 0 70 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-HD" sketch:type="MSArtboardGroup" transform="translate(-185.000000, -2844.000000)" fill="#AA6311">
+            <g id="House-Logo" sketch:type="MSLayerGroup" transform="translate(53.000000, 23.000000)">
+                <g id="Logo" transform="translate(132.000000, 2821.000000)" sketch:type="MSShapeGroup">
+                    <path d="M25.6652799,8.25 L70,20.5007568 L66.9807895,20.9843393 L67.1601841,28.3992711 L67.1396972,28.0768827 L67.1396972,30.8171836 L56.3341018,33 L33.2927585,31.7843486 L17.7199886,32.7515136 L1.27190735e-09,32.1379838 L-2.13251031e-14,21.4679218 L17.8788949,20.1783685 C17.8788949,20.1783685 20.5258416,20.4390095 21.8493149,20.4887329 C21.9559939,20.4927409 22.169352,20.5007568 22.169352,20.5007568 L22.169352,15.8261259 L2.62393604,12.6022426 L25.6652799,8.25 Z" id="Path-5"></path>
+                    <path d="M31.5453639,6.94992636 L30.5882353,6.63402062 L40.0850354,4.73858616 L40.0850355,1.52892246 L39.773665,0.992189399 L45.2642074,1.75362915e-17 L50.5284148,2.21134021 L50.5284148,6.160162 L61.3758724,4.89653903 L68.2352941,8.52945508 L62.9707671,9.1965376 L62.9707671,10.8834129 L62.9707679,15.3214286 L31.5453639,6.94992636 Z" id="Path-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
